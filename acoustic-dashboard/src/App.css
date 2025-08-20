@@ -1,0 +1,23 @@
+/* App.css */
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0c1b2a;
+  color: #ffffff;
+}
+
+.app-container {
+  display: flex;
+  height: 100vh;
+}
+
+.main-content {
+  margin-left: 220px; /* same width as sidebar */
+  padding: 20px;
+  flex-grow: 1;
+  overflow-y: auto;
+}
+.page-content {
+  padding: 20px;
+}

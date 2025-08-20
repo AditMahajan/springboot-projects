@@ -1,0 +1,40 @@
+.alert-card {
+  background-color: #1e2a38;
+  border: 1px solid #03a9f4;
+  border-radius: 10px;
+  padding: 16px;
+  margin: 12px 0;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  position: relative;
+}
+
+.alert-info h3 {
+  margin: 0 0 5px 0;
+  color: #03a9f4;
+}
+
+.alert-info p {
+  margin: 0 0 10px 0;
+  color: #ccc;
+}
+
+audio {
+  width: 100%;
+}
+
+.delete-icon {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  color: #e53935;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.delete-icon:hover {
+  color: #c62828;
+}
+
