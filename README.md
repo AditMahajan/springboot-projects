@@ -1,5 +1,5 @@
 Product Requirements Document (PRD)
-Project Name: Acoustic Guardian: Edge-Intelligent Sound Anomaly Detection using on premises connectivity
+Project Name: Acoustic Guardian: On‑Premises Edge Sound Anomaly Detection.
 
 1. Objective 
 •	Objective: To develop a web-based dashboard and cloud integration for an IoT system that receives audio anomaly detection events from a Texas Instruments SK-AM64B board, logs these events with timestamps, and allows users to playback associated audio clips for verification. The dashboard will also provide local notifications of detected anomalies within a home environment.
